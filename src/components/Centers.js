@@ -9,7 +9,7 @@ thus being centers, feel free to change the export name👇🏾(It's default so 
 */
 
 function SideNav() {
-  const routeName = "maps";
+  const routeName = "maps"; // we can grab the current route once react-router is setup
   const routes = ["maps", "try me"];
 
   return (
