@@ -20,6 +20,7 @@ function SideNav() {
           <a
             key={i}
             onClick={() => {}}
+            href="/"
             style={
               (routeName === route && {
                 backgroundColor: "#111",
