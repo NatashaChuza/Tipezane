@@ -3,7 +3,7 @@ import { Navbar, NavbarBrand } from "reactstrap";
 
 function Header() {
   return (
-    <Navbar color="light" light expand="md">
+    <Navbar color="dark" light expand="md">
       <NavbarBrand href="/">Tipezane</NavbarBrand>
     </Navbar>
   );
